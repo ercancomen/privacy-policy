@@ -1,5 +1,5 @@
 Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
-Son Güncelleme: 27 Temmuz 2026
+Son Güncelleme: 03 Ağustos 2026
 Bu sayfa, Üretim Takip ("Uygulama") kullanıcıları için veri güvenliği, kullanım koşulları ve hesap yönetimi süreçlerini açıklar. Uygulamayı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız.
 1. Hesap ve Veri Silme Talebi
 Google Play politikaları gereği, kullanıcılarımız diledikleri zaman hesaplarını ve buna bağlı verilerin silinmesini şu yöntemlerle talep edebilirler:
