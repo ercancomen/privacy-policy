@@ -61,7 +61,15 @@ Gizlilik politikası hakkındaki sorularınız için uygulama yöneticisi **Erca
 
 * **E-posta:** `ercancomen@gmail.com`
 <style>
-  .main-header .btn { display: none !important; }
-  .site-footer { display: none !important; }
-  .project-tagline { margin-bottom: 2rem !important; }
+  /* Üstteki butonları ve alttaki yazıları zorla gizler */
+  .main-header .btn, 
+  .site-footer, 
+  .site-footer-owner, 
+  .site-footer-credits { 
+    display: none !important; 
+  }
+  /* Başlık altındaki boşluğu düzenler */
+  .project-tagline { 
+    margin-bottom: 2rem !important; 
+  }
 </style>
