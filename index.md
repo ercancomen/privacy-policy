@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Gizlilik Politikası ve Kullanım Koşulları"
+title: Üretim Takip
 permalink: /
 ---
 
