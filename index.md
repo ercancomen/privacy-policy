@@ -60,3 +60,8 @@ Verileriniz, yasal zorunluluklar haricinde hiçbir üçüncü taraf kişi veya k
 Gizlilik politikası hakkındaki sorularınız için uygulama yöneticisi **Ercan Çömen** ile iletişime geçebilirsiniz.
 
 * **E-posta:** `ercancomen@gmail.com`
+<style>
+  .main-header .btn { display: none !important; }
+  .site-footer { display: none !important; }
+  .project-tagline { margin-bottom: 2rem !important; }
+</style>
