@@ -1,6 +1,7 @@
 ---
 layout: default
-title: " "
+title: "Gizlilik Politikası ve Kullanım Koşulları"
+permalink: /privacy-policy/
 ---
 
 # Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
