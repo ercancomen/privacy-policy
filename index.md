@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 # Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
 
-**Son Güncelleme:** 03 Ağustos 2026
+**Son Güncelleme:** 13 Ağustos 2026
 
 Bu sayfa, **Üretim Takip** ("Uygulama") kullanıcıları için veri güvenliği, kullanım koşulları ve hesap yönetimi süreçlerini açıklar. Uygulamayı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız.
 
@@ -14,10 +14,12 @@ Bu sayfa, **Üretim Takip** ("Uygulama") kullanıcıları için veri güvenliği
 
 ### 1. Hesap ve Veri Silme Talebi
 
-Google Play politikaları gereği, kullanıcılarımız diledikleri zaman hesaplarını ve buna bağlı verilerin silinmesini şu yöntemlerle talep edebilirler:
+Google Play politikaları gereği, kullanıcılarımız diledikleri zaman hesaplarını kapatabilirler. Veri silme süreçleri şu şekildedir:
 
-* **Uygulama İçinden:** "Profil -> Ayarlar -> Hesabımı Sil" adımlarını izleyerek hesabınızı anında kapatabilir ve verilerinizi silebilirsiniz.
-* **Web/E-posta Üzerinden:** Uygulama telefonunuzda yüklü değilse, verilerinizin silinmesi için `ercancomen@gmail.com` adresine **"Hesap Silme Talebi"** konulu bir e-posta göndermeniz yeterlidir. Talebiniz en geç **48 saat** içinde işleme alınacak ve tüm kişisel verileriniz *(İsim, E-posta, Sicil No, Üretim Kayıtları)* sistemimizden kalıcı olarak silinecektir.
+* **Uygulama İçinden:** "Profil -> Ayarlar -> Hesabımı Sil" adımlarını izleyerek hesabınızı kapatabilirsiniz.
+* **Web/E-posta Üzerinden:** Hesap silme talebi için `ercancomen@gmail.com` adresine **"Hesap Silme Talebi"** konulu bir e-posta gönderebilirsiniz. 
+* **Silinen Veriler:** Talebiniz onaylandığında size ait kişisel veriler *(İsim, E-posta, Sicil No, Profil Fotoğrafı)* sistemden kalıcı olarak silinir.
+* **Saklanan Veriler:** İş süreçlerinin sürekliliği, geçmişe dönük denetim ve operasyonel takip amacıyla; kullanıcının oluşturduğu **Üretim Formları, Arıza Kayıtları ve Kalıp Bakım Verileri** sistemde saklanmaya devam eder. Bu veriler kişisel kimlik bilgilerinden arındırılarak operasyonel kayıt olarak korunur.
 
 ---
 
@@ -42,7 +44,7 @@ Toplanan veriler sadece; personel yetkilendirme, üretim süreçlerinin anlık t
 
 Verileriniz Firebase (Google) altyapısında şifrelenmiş olarak saklanmaktadır.
 
-> ⚠️ **YASAL UYARI:** Uygulama içerisinde yer alan üretim verileri, personel bilgileri ve ticari sırlar kurumun mülkiyetindedir. Bu verilerin yetkisiz kişilerle paylaşılması, kopyalanması, dışarı sızdırılması veya kötüye kullanılması 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Türk Ceza Kanunu kapsamında suç teşkil etmektedir. Bu tür eylemlerde bulunan kullanıcılar hakkında yasal işlem başlatılacaktır.
+> YASAL UYARI: Bu uygulama, bireysel bir girişimle operasyonel süreçlerin takibini kolaylaştırmak amacıyla geliştirilmiş bir yardımcı araçtır. Uygulama içerisinde yer alan tüm operasyonel veriler ve personel bilgileri, ilgili kuruluşun ticari sırrı niteliğindedir. Bu verilerin yetkisiz kişilerce paylaşılması veya kötüye kullanılması yasal sorumluluk doğurur. Uygulama geliştiricisi, girilen verilerin içeriğinden veya platformun amaç dışı kullanımından sorumlu tutulamaz. Kullanıcılar, bu platformu kullanarak verilerin gizliliğini korumayı taahhüt ederler.
 
 ---
 
@@ -56,4 +58,4 @@ Verileriniz, yasal zorunluluklar haricinde hiçbir üçüncü taraf kişi veya k
 
 Gizlilik politikası hakkındaki sorularınız için uygulama yöneticisi **Ercan Çömen** ile iletişime geçebilirsiniz.
 
-* **E-posta:** `ercancomen@gmail.com`
+* **E-posta:** `ercancomen@gmail.com`f
