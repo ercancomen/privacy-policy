@@ -1,13 +1,13 @@
 ---
 layout: default
-title: " "
+title: ""
 ---
 
 # Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
 
 **Son Güncelleme:** 03 Ağustos 2026
 
-Bu sayfa, **Üretim Takip** ("Uygulama") kullanıcıları için veri güvenliği, kullanım koşulları ve hesap yönetimi süreçlerini açıklar. Uygulamayı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız. 
+Bu sayfa, **Üretim Takip** ("Uygulama") kullanıcıları için veri güvenliği, kullanım koşulları ve hesap yönetimi süreçlerini açıklarlar. Uygulamayı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız.
 
 ---
 
