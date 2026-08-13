@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Gizlilik Politikası ve Kullanım Koşulları"
+permalink: /
 ---
+
 
 # Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
 
@@ -57,4 +59,4 @@ Verileriniz, yasal zorunluluklar haricinde hiçbir üçüncü taraf kişi veya k
 
 Gizlilik politikası hakkındaki sorularınız için uygulama yöneticisi **Ercan Çömen** ile iletişime geçebilirsiniz.
 
-* **E-posta:** `ercancomen@gmail.com`f
+* **E-posta:** `ercancomen@gmail.com`
