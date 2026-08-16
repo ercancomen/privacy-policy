@@ -7,7 +7,7 @@ permalink: /
 
 # Gizlilik Politikası, Kullanım Koşulları ve Hesap Silme
 
-**Son Güncelleme:** 13 Ağustos 2026
+**Son Güncelleme:** 16 Ağustos 2026
 
 Bu sayfa, **Üretim Takip** ("Uygulama") kullanıcıları için veri güvenliği, kullanım koşulları ve hesap yönetimi süreçlerini açıklar. Uygulamayı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız.
 
