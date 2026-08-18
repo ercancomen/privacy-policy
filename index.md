@@ -55,7 +55,20 @@ Verileriniz, yasal zorunluluklar haricinde hiçbir üçüncü taraf kişi veya k
 
 ---
 
-### 6. İletişim
+
+### 6. Üyelik ve Destek Paketleri (Hediye/Bağış Mahiyeti)
+
+Uygulama içinde sunulan **Bronz, Gümüş ve Altın** üyelik paketleri, bireysel geliştiriciye destek olma amacı taşıyan ve dijital birer "Teşekkür Rozeti" niteliğinde olan özelliklerdir. Bu paketlerin satın alınmasıyla ilgili olarak aşağıdaki hususlar kabul edilmiş sayılır:
+
+* **İmtiyazsızlık:** Bu paketlerin satın alınması, kullanıcıya veri gizliliği kuralları, uygulama kullanım koşulları veya yasal sorumluluklar konusunda herhangi bir ayrıcalık, muafiyet veya imtiyaz sağlamaz.
+* **Hediye Niteliği:** Ödemeler, uygulamanın sürekliliğine katkı sağlamak amacıyla yapılan gönüllü desteklerdir. Satın alma işlemi, kullanıcıya uygulama yönetimi üzerinde bir söz hakkı veya yasal bir ortaklık tanımaz.
+* **Eşit Sorumluluk:** Altın, Gümüş veya Bronz statüsündeki tüm kullanıcılar, standart kullanıcılarla tamamen aynı etik kurallara ve "4. Madde"de belirtilen yasal sorumluluklara tabidir.
+* **Veri Erişimi:** Üyelik statüsü, kullanıcının yetki alanı dışındaki (kendi siciline tanımlanmamış) gizli verilere erişim hakkı doğurmaz.
+
+---
+
+
+### 7. İletişim
 
 Gizlilik politikası hakkındaki sorularınız için uygulama yöneticisi **Ercan Çömen** ile iletişime geçebilirsiniz.
 
